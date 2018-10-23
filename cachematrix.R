@@ -1,6 +1,6 @@
-## makeCachMatrix takes the 
+## makeCacheMatrix creates a matrix that can cache it's inverse 
 
-## Write a short comment describing this function
+
 
 makeCacheMatrix <- function(x = matrix()) {
 ## initinv is the inverse property and is initialised
